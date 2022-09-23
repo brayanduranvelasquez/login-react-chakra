@@ -53,7 +53,7 @@ export default function App(): JSX.Element {
               </Stack>
               <Box my={3}>
                 <Button bg={'purple.600'} _hover={{ bg: 'purple.400' }} color={'white'}>
-                  Button
+                  Iniciar
                 </Button>
               </Box>
               <Stack spacing={4} mt={6}>
